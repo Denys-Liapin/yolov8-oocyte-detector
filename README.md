@@ -22,7 +22,7 @@ Computer vision tool powered by YOLOv8 for automated oocyte detection under a mi
 
    After executing the script, the results_oocyte_test_photo.jpg file will appear in the folder with the circled oocyte and the confidence percentage of the model.
 
-   <details>
+<details>
   <summary>Original photo</summary>
   
   <br>
