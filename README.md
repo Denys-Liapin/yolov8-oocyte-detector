@@ -6,7 +6,7 @@ Computer vision tool powered by YOLOv8 for automated oocyte detection under a mi
 
 1. Clone the repository and navigate to the project folder:
    ```bash
-   git clone [https://github.com/ВАШ_НІК/yolov8-oocyte-detector.git](https://github.com/ВАШ_НІК/yolov8-oocyte-detector.git)
+   git clone https://github.com/Denys-Liapin/yolov8-oocyte-detector.git
    cd yolov8-oocyte-detector
    ```
 
