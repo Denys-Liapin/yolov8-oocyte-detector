@@ -33,7 +33,7 @@ Computer vision tool powered by YOLOv8 for automated oocyte detection under a mi
 
 
  <details>
-  <summary>'Recognition result (YOLOv8)'</summary>
+  <summary>Recognition result (YOLOv8)</summary>
   
   <br>
   <p align="center">
